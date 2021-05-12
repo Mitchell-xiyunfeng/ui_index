@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 一、前言
+IT桔子有一个新经济死亡公司数据库：[https://www.itjuzi.com/deathCompany](https://www.itjuzi.com/deathCompany)，统计了2000-2019年之间比较出名的公司 "死亡" 数据，数据来源真实可靠。
 
-You can use the [editor on GitHub](https://github.com/Mitchell-xiyunfeng/ui_index/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![](https://img-blog.csdnimg.cn/20210502100704860.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Z5ZnVnb3lmYQ==,size_16,color_FFFFFF,t_70)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- "死亡公司数据库" 的公司关闭时间是依据公开媒体报道及部分估算，可能会存在些许误差，但还是具有较高的可靠性；
+- 对所收录公司运营状况的判定来源如下：
+	1、公开媒体报道公司关闭、破产清算的；
+	2、公司自身在微信、微博等渠道宣布关闭、破产清算的；
+	3、公司明显经营异常：公司被注销；公司产品比如APP或微信持续 6 个月及以上没更新；公司因为监管被抓、无法经营……交叉比对后确认没有持续经营。
+  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 二、数据可视化
+  
+网易科技讯 2010年3月28日消息，今天在深圳IT领袖峰会上，工业信息化部电子科学技术情报研究所所长(计世传媒董事长)李颖表示，2010年后将是真正的移动互联网时代！
+  
+2010年是移动互联网的元年。也难怪，2010年的移动互联网实在是太热闹了。微信、小米、美团、爱奇艺等都在这一年相继成立。百度在谷歌退出中国后成为最大的受益者，淘宝成为阿里新的增长点，腾讯则宣布 QQ 同时在线超 1 亿人。自此，百度、阿里和腾讯正式成为"三巨头"——BAT。除此之外，网易的网游、新浪的微博、搜狐的视频和输入法也开始发力出击，移动互联网的竞争正式拉开帷幕。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mitchell-xiyunfeng/ui_index/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2020年国内受疫情影响，也有很多企业因此倒闭，情况比较特殊所以挑选最近十年（2010-2019）的倒闭公司数据，来看一看这十年里，创业公司的消亡。
